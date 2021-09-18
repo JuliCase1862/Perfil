@@ -1,0 +1,39 @@
+h1{
+    background-color: rosybrown;
+    text-align: center;
+}
+h2{
+    
+    
+}
+h3{background-color: rosybrown;
+    text-align: center;
+}
+h4{background-color: rosybrown;
+    text-align: center;
+    
+}
+h5{
+    text-align: center;
+}
+p{
+    color: brown;
+    font-weight: bold;
+    font-style:italic;
+}
+.PEPE{
+    color: blue;
+}
+.OJO{
+    color: brown;
+}
+.JEJE{
+    color: black;
+    border: 5px solid black;
+    padding: 20px;
+    width: 200px;
+}
+.LORO{
+    color: black;
+    font-size: 20px;
+}
