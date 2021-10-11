@@ -25,13 +25,19 @@ p{
     color: blue;
 }
 .OJO{
-    color: brown;
+    color: white;
+    background: #655151;
+background: linear-gradient(79deg,#655151 2%, #9d5151 20%);
+background: -webkit-linear-gradient(79deg,#655151 2%, #9d5151 20%);
+background: -moz-linear-gradient(79deg,#655151 2%, #9d5151 20%);
+box-shadow: black 2px 1px 1px;
 }
 .JEJE{
     color: black;
-    border: 5px solid black;
-    padding: 20px;
+    border-radius: 40px; 
+    border: 1px solid black;
     width: 200px;
+    padding: 45px;
 }
 .LORO{
     color: black;
